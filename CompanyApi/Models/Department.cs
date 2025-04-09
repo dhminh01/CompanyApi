@@ -1,5 +1,3 @@
-using System.ComponentModel.DataAnnotations;
-
 namespace CompanyApi.Models
 {
     public class Department

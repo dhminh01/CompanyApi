@@ -1,7 +1,7 @@
 ﻿using CompanyApi.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace CompanyApi.Data
+namespace CompanyApi.Datas
 {
       public class AppDbContext(DbContextOptions<AppDbContext> options) : DbContext(options)
       {

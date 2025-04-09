@@ -1,7 +1,7 @@
 ﻿using CompanyApi.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace CompanyApi.Data
+namespace CompanyApi.Datas
 {
     public static class SeedData
     {
