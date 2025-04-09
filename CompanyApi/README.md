@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a simple example of using Entity Framework Core (EF Core) with an ASP.NET Core Web API. It demonstrates the database migration process.
+This project is a simple example of using Entity Framework Core (EF Core) with an ASP.NET Core Web API.
 
 ## Features
 
